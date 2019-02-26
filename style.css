@@ -6,8 +6,7 @@ html {
 
 body {
 	font-family: 'Montserrat', sans-serif;
-	text-align: center;
-	margin: auto;
+	margin: 0 auto;
 }
 
 hr {
@@ -61,8 +60,4 @@ header.startup h1 {
 .row:hover {
 	transform: scale(1.1);
 	transition: 1s;
-}
-.row {
-	text-align: center;
-	margin: auto;
 }
