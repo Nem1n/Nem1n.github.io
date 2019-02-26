@@ -36,11 +36,14 @@ header.startup h1 {
 }
 
 .btn {
-	margin: auto;
 	font-weight: 700;
 	text-transform: uppercase;
 	border-radius: 300px;
 	font-family: 'Montserrat', sans-serif;
+	position:absolute;
+	transition: .5s ease;
+	left: 50%;
+	
 }
 
 .btn-xl {
@@ -61,7 +64,4 @@ header.startup h1 {
 	transform: scale(1.1);
 	transition: 1s;
 }
-.button {
-	position: absolute;
-	text-align: center;
-}
+
