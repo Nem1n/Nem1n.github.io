@@ -62,6 +62,5 @@ header.startup h1 {
 	transition: 1s;
 }
 .clear {
-	text-align: center;
-	margin: auto;
+	text-align: 0 auto;
 }
