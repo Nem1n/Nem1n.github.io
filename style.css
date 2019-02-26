@@ -61,3 +61,6 @@ header.startup h1 {
 	transform: scale(1.1);
 	transition: 1s;
 }
+.clear {
+	text-align: center;
+}
