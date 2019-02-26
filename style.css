@@ -40,9 +40,6 @@ header.startup h1 {
 	text-transform: uppercase;
 	border-radius: 300px;
 	font-family: 'Montserrat', sans-serif;
-	position:absolute;
-	transition: .5s ease;
-	left: 50%;
 	
 }
 
