@@ -6,6 +6,7 @@ html {
 
 body {
 	font-family: 'Montserrat', sans-serif;
+	text-align: 0 auto;
 }
 
 hr {
@@ -35,13 +36,10 @@ header.startup h1 {
 }
 
 .btn {
-	position:absolute;
 	font-weight: 700;
 	text-transform: uppercase;
 	border-radius: 300px;
 	font-family: 'Montserrat', sans-serif;
-    	left: 50%;
-
 }
 
 .btn-xl {
