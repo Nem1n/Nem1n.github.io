@@ -62,5 +62,6 @@ header.startup h1 {
 	transition: 1s;
 }
 .button {
+	positon: absolute;
 	text-align: center;
 }
